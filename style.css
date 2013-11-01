@@ -1,1 +1,9 @@
-d
+#dropdown{
+  display:none;
+}
+
+#balloonpic{
+  display:block;
+  width:50px;
+  length:50px;
+}

@@ -4,6 +4,6 @@
 
 #balloonpic{
   display:block;
+  height:50px;
   width:50px;
-  length:50px;
 }
